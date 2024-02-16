@@ -1,0 +1,9 @@
+14b01f6b77076adf9ba48078acddb6f723052aab12e5d5a0f7d574963a62f551
+
+cloud.tenable.com
+
+
+./nessuscli agent link --key=14b01f6b77076adf9ba48078acddb6f723052aab12e5d5a0f7d574963a62f551 --host=cloud.tenable.com --port=443
+
+
+nessuscli.exe agent link --key=14b01f6b77076adf9ba48078acddb6f723052aab12e5d5a0f7d574963a62f551 --host=cloud.tenable.com --port=443
